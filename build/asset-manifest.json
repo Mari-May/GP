@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08c7a213.css",
+    "main.js": "/static/js/main.54e6e475.js",
+    "static/js/787.ea748326.chunk.js": "/static/js/787.ea748326.chunk.js",
+    "static/media/jpg": "/static/media/ac227d630f022baa4bf0fa95f62de986.a3fd10139c4ad4205d73.jpg",
+    "static/media/titul-2-scaled.jpg": "/static/media/titul-2-scaled.4b36f25c0258c3035369.jpg",
+    "static/media/Zakarpattya_1920.jpg": "/static/media/Zakarpattya_1920.ea8323371ac38c9fccff.jpg",
+    "static/media/Ukraine.webp": "/static/media/Ukraine.7f9965e41f18d91c6525.webp",
+    "index.html": "/index.html",
+    "main.08c7a213.css.map": "/static/css/main.08c7a213.css.map",
+    "main.54e6e475.js.map": "/static/js/main.54e6e475.js.map",
+    "787.ea748326.chunk.js.map": "/static/js/787.ea748326.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08c7a213.css",
+    "static/js/main.54e6e475.js"
+  ]
+}
